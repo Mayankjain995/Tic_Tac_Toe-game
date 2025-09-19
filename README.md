@@ -29,7 +29,7 @@ Play against a friend in this classic two-player game!
 2. Navigate to the project folder:
    cd Tic_Tac_Toe-game
 
-3. Open index.html in your browser.
+3. Open tic.html in your browser.
 
 
 -----
